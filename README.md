@@ -1,11 +1,9 @@
 # Welcome to My Website
 
 <!-- This is your navigation menu -->
-[DSA Stacks]
-[Crystal Growth] 
+[DSA Stacks](DSAStacks.html) | [Crystal Growth](CrystalGrowth.html)
 
 ---
 
 ## Welcome!
 This is my main homepage. Click the links above to explore my other pages.
-Use code with caution.
