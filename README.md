@@ -1,7 +1,9 @@
 # Welcome to My Website
 
 <!-- This is your navigation menu -->
-[DSA Stacks](DSAStacks.html) | [Crystal Growth](CrystalGrowth.html)
+[DSA](DSAStacks.html) 
+[Semiconductor Fabrication](CrystalGrowth.html)
+[AI](Transformers.html)
 
 ---
 
