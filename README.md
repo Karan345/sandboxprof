@@ -1,7 +1,7 @@
 # Welcome to My Website
 
 <!-- This is your navigation menu -->
-[DSA](DSAStacks.html) 
+[DSA](DSAStacks.html) \n
 [Semiconductor Fabrication](CrystalGrowth.html)
 [AI](Transformers.html)
 
